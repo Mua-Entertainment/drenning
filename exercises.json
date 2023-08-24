@@ -265,5 +265,40 @@
         "canUseSingleBodyPart": true,
         "singleBodyPart": false,
         "useArms": true
+    }, {
+        "name": "Seitheben",
+        "countWeight": true,
+        "countReps": true,
+        "canUseSingleBodyPart": true,
+        "singleBodyPart": false,
+        "useArms": true
+    }, {
+        "name": "Trizeps am Kabelzug",
+        "countWeight": true,
+        "countReps": true,
+        "canUseSingleBodyPart": true,
+        "singleBodyPart": false,
+        "useArms": true
+    }, {
+        "name": "Unterarm-Curls",
+        "countWeight": true,
+        "countReps": true,
+        "canUseSingleBodyPart": true,
+        "singleBodyPart": false,
+        "useArms": true
+    }, {
+        "name": "Wadenheben",
+        "countWeight": true,
+        "countReps": true,
+        "canUseSingleBodyPart": true,
+        "singleBodyPart": false,
+        "useArms": false
+    }, {
+        "name": "Wadenpresse",
+        "countWeight": true,
+        "countReps": true,
+        "canUseSingleBodyPart": true,
+        "singleBodyPart": false,
+        "useArms": false
     }
 ]
