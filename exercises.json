@@ -315,6 +315,13 @@
             "canUseSingleBodyPart": true,
             "singleBodyPart": false,
             "useArms": false
+        }, {
+            "name": "Toe Touches",
+            "countWeight": false,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": false
         }
     ]
 }
