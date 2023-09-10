@@ -301,6 +301,20 @@
             "canUseSingleBodyPart": true,
             "singleBodyPart": false,
             "useArms": false
+        }, {
+            "name": "Abduktoren",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": true,
+            "singleBodyPart": false,
+            "useArms": false
+        }, {
+            "name": "Adduktoren",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": true,
+            "singleBodyPart": false,
+            "useArms": false
         }
     ]
 }
