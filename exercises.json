@@ -64,6 +64,13 @@
             "singleBodyPart": false,
             "useArms": false
         }, {
+            "name": "Beinpresse-Maschine",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": true,
+            "singleBodyPart": false,
+            "useArms": false
+        }, {
             "name": "Beinstrecker",
             "countWeight": true,
             "countReps": true,
