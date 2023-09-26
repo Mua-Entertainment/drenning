@@ -329,6 +329,13 @@
             "canUseSingleBodyPart": false,
             "singleBodyPart": false,
             "useArms": false
+        }, {
+            "name": "Dips",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": true
         }
     ]
 }
