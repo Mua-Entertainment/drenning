@@ -336,6 +336,13 @@
             "canUseSingleBodyPart": false,
             "singleBodyPart": false,
             "useArms": true
+        }, {
+            "name": "Schulterdrücken",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": true,
+            "singleBodyPart": false,
+            "useArms": true
         }
     ]
 }
