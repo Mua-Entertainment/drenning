@@ -343,6 +343,13 @@
             "canUseSingleBodyPart": true,
             "singleBodyPart": false,
             "useArms": true
+        }, {
+            "name": "Trizeps mit 2 Seilen",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": true,
+            "singleBodyPart": false,
+            "useArms": true
         }
     ]
 }
