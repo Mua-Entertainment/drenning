@@ -350,6 +350,13 @@
             "canUseSingleBodyPart": true,
             "singleBodyPart": false,
             "useArms": true
+        }, {
+            "name": "Holzfäller",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": true
         }
     ]
 }
