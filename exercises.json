@@ -357,6 +357,20 @@
             "canUseSingleBodyPart": false,
             "singleBodyPart": false,
             "useArms": true
+        }, {
+            "name": "Gluteus-Maschine",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": false
+        }, {
+            "name": "Seitliches Laufen mit Band",
+            "countWeight": false,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": false
         }
     ]
 }
