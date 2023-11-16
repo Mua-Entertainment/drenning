@@ -371,6 +371,13 @@
             "canUseSingleBodyPart": false,
             "singleBodyPart": false,
             "useArms": false
+        }, {
+            "name": "Gestrecktes Front-Chest-Halten",
+            "countWeight": true,
+            "countReps": true,
+            "canUseSingleBodyPart": false,
+            "singleBodyPart": false,
+            "useArms": true
         }
     ]
 }
